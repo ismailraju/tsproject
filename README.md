@@ -5,6 +5,7 @@
 ## create project
 
 ### npx create-snowpack-app .  --template @snowpack/app-template-blank-typescript --force
+### npm i --save-dev @types/uuid
 ## Available Scripts
 
 ### npm start
